@@ -21,7 +21,7 @@ h4{
     
     
     justify-content: space-between;
-    background-image: url(/image/top-banner.png);
+    background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
 
 }
@@ -51,7 +51,7 @@ h4{
 #section_2{
     width: 100%;
     margin-bottom: 77px;
-    background-image: url(/image/dream-bg.png);
+    background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 
@@ -69,7 +69,7 @@ h4{
 
 }
 #section_3{
-    background-image: url(/image/exp-bg.png);
+    background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
